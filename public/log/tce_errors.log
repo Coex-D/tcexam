@@ -1,1 +1,2 @@
 
+2023-08-23 13:32:09	2	0000:0000:0000:0000:0000:ffff:7f00:0001	error	/tcexam/public/code/index.php	[2] Undefined array key "current_time" | LINE: 74 | FILE: C:\xampp\htdocs\tcexam\shared\code\tce_functions_test.php

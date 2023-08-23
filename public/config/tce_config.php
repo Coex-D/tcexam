@@ -114,7 +114,7 @@ define('K_ENABLE_PUBLIC_PDF', true);
 /**
  * If true hide the expired tests from index table.
  */
-define('K_HIDE_EXPIRED_TESTS', false);
+define('K_HIDE_EXPIRED_TESTS', true);
 
 // --- INCLUDE FILES -----------------------------------------------------------
 

@@ -136,7 +136,7 @@ define('K_ENABLE_CUSTOM_EXPORT', '');
 /**
  * If true enable the backup download.
  */
-define('K_DOWNLOAD_BACKUPS', true);
+define('K_DOWNLOAD_BACKUPS', false);
 
 /**
  * If true check the unicity of question and answer descriptions using utf8_bin collation when using MySQL.
