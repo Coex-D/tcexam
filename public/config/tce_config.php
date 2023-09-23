@@ -36,6 +36,8 @@
 
 require_once('../config/tce_auth.php');
 require_once('../../shared/config/tce_config.php');
+error_reporting(0);
+ini_set('error_reporting', 0);
 
 // --- DEFAULT META TAGS -------------------------------------------------------
 

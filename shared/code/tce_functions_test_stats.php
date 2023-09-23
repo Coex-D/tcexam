@@ -35,6 +35,8 @@
 * @param $pubmode (boolean) If true filter the results for the public interface.
 * return $data array containing test-user statistics.
 */
+
+
 function F_getUserTestStat($test_id, $user_id = 0, $testuser_id = 0, $pubmode = false)
 {
     require_once('../config/tce_config.php');
